@@ -1,0 +1,1 @@
+from .class2 import class2

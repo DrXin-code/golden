@@ -1,0 +1,24 @@
+epoch_num: 100
+hidden1_units: 20
+hidden2_units: 10
+hidden3_units: 0
+lr: 0.005
+l1_penalty: 0.0001
+features_num: 10
+filename: test1_2
+noise: 0.1
+k: 5
+lx: 0.1
+lam: 1
+alp: 0.33
+penalty: 1
+
+####################
+第一层节点：10
+训练5次min_MSE_tr:1.1868871
+min_MSE_va:2.7660449
+min_MSE_te:2.4989185
+q:2.9301155581164015e-50
+#############################
+####################
+第一层节点：4
